@@ -1,4 +1,3 @@
-# [file name]: railway_session_bot/railway.json
 {
     "$schema": "https://railway.app/railway.schema.json",
     "build": {
